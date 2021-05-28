@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
+.infos-body
+{
+    background: #afdbe2;
+    border-radius: 15px;
+    padding: 15px;
+    font-family: 'Varela', sans-serif;
+    color: #28264d;
+    
+}
+
+.formacao-body
+{
+    background: #d3ecea;
+    border-radius: 15px;
+    padding: 15px;
+    font-family: 'Varela', sans-serif;
+    color: #28264d;
+}
+
+.experiencias-body
+{
+    background: #f3f3f3;
+    border-radius: 15px;
+    padding: 15px;
+    font-family: 'Varela', sans-serif;
+    color: #28264d;
+   
+}
+.container
+{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.infos
+{
+    font-family: 'Alfa Slab One', cursive;
+}
+.formacao
+{
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.experiencias
+{
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.navbar-brand
+{
+    font-family: 'Permanent Marker', cursive;
+    color: #473356;
+}
+.text-center
+{
+    font-family: 'Permanent Marker', cursive;
+    color: #473356;
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
